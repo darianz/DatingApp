@@ -1,0 +1,2 @@
+[*.{cs,html,css,js}]
+max_line_length = 80

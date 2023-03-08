@@ -1,0 +1,6 @@
+.dropdown
+-google
+,
+.dropdown-item {
+  cursor: pointer;
+}
